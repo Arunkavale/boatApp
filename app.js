@@ -1,5 +1,5 @@
 const apiInstance = axios.create({
-  baseURL: "http://32cb-2401-4900-5199-b34e-f841-9411-deb6-494f.ngrok.io",
+  baseURL: "https://boatapptest.herokuapp.com",
   headers: { "Content-Type": "application/json" }
 });
 
